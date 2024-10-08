@@ -10,6 +10,7 @@ git clone https://github.com/EKoregin/getMaxNum.git
 ```
 2. Собрать Maven проект и создать jar
 ```shell
+cd getMaxNum/
 mvn package
 ```
 3. Запустить jar-файл
